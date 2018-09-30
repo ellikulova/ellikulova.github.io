@@ -26,6 +26,7 @@ h2 {
     font-size: 32px;
     border-bottom: 1px grey solid;
     margin-bottom: 8px;
+    text-align: center;
 }
 
 h3 {
@@ -37,13 +38,13 @@ h3 {
     text-align: center;
 }
 
+p.abzac {
+    text-align: left;
+}
+
 #footer {
     margin-top: 64px;
     text-align: center;
-}
-
-p.abzac {
-    text-align: left;
 }
 
 ul {
